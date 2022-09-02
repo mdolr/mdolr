@@ -3,7 +3,7 @@
 Hi, I'm Maxime, I study Data Science and build products in my freetime 👨‍💻
 
 ### 🎯 &nbsp;Goals
-I'm currently finishing up my master in Data Science and looking for a 6 month-long end-of-studies internship as a Data Scientist, Machine Learning Engineer or Quantitative analyst in the finance sector starting February 2023. *Find my contact info down below*
+I'm currently finishing up my master in Data Science and looking for a 6 month-long end-of-studies internship as a Data Scientist, Machine Learning Engineer or Quantitative analyst in the finance sector starting February 2023. *[Contact me here](https://github.com/mdolr#lets-connect)*
 
 ### 🎓 &nbsp;Education
 | Year | Degree | School |
